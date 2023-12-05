@@ -22,13 +22,13 @@ webpackJsonp([28],{
  * Created by zxl on 2017/4/19.
  */
 const Conf = {
-  API_HOST: "https://api.jzongguan.com", //'http://192.168.0.107:8090', //'http://127.0.0.1:8090',
+  API_HOST: "https://40615x1w75.zicp.fun", //'http://192.168.0.107:8090', //'http://127.0.0.1:8090',
   IMG_BASE_URL: "//qdimg.oss-cn-shanghai.aliyuncs.com",
-  IMG_UPLOAD_URL: "https://api.jzongguan.com" + "/imgUpload",
+  IMG_UPLOAD_URL: "https://40615x1w75.zicp.fun" + "/imgUpload",
   ACCEPT_DISTANCE: 400,
   PAGE_SIZE: 30,
   //IMG_LIB_URL: 'http://www.jzongguan.com/imglib',
-  IMG_LIB_URL: "http://jzongguan.com/imglib",
+  IMG_LIB_URL: "https://40615x1w75.zicp.fun/imglib",
   VOICE_BASE_URL: "http://192.168.0.107:9007/voices/",
   //QR_CODE_URL: 'http://192.168.0.107:9007/_tool_/qr-img.php?val=',
   QR_CODE_URL: "http://tool.jzongguan.com/qr-img.php?val=",
